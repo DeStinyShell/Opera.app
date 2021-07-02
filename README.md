@@ -2,7 +2,8 @@
 
 Movie shop is an application to buy tickets on a movie. In this app user can choose an available session for a movie, purchase tickets, make an order. Also, this app has a realization of authentication and authorization, and so app manages access of user to its functional.
 
-## **Roles and available functional**  
+## **_Roles and available functional_**
+
 At this moment there is a few roles: admin, user and guest.
 
 Guest can register, login, get information about available movies, movie sessions, cinema halls.  
